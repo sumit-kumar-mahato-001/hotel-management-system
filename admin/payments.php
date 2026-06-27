@@ -1,1 +1,1 @@
-<?php // Admin Payments Management ?>
+<?php $title = "Payments"; include "admin-layout.php"; ?>
