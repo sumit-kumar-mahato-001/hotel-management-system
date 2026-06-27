@@ -1,1 +1,1 @@
-<?php // Admin Dashboard ?>
+<?php $title = "Admin Dashboard"; include "admin-layout.php"; ?>
