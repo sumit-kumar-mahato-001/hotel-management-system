@@ -1,0 +1,1 @@
+<?php // Rooms Listing Page ?>

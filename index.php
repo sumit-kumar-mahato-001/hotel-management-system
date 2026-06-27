@@ -1,0 +1,1 @@
+<?php // Hotel Management System - Home Page ?>
