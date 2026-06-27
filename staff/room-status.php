@@ -1,1 +1,1 @@
-<?php // Staff Room Status Page ?>
+<?php $title = "Room Status"; include "staff-layout.php"; ?>
