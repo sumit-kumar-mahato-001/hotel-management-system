@@ -1,1 +1,1 @@
-<?php // Staff Customers Page ?>
+<?php $title = "Customers"; include "staff-layout.php"; ?>
