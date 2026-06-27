@@ -1,1 +1,1 @@
-<?php // Admin Bookings Management ?>
+<?php $title = "Manage Bookings"; include "admin-layout.php"; ?>
