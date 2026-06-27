@@ -1,1 +1,1 @@
-<?php // Admin Rooms Management ?>
+<?php $title = "Manage Rooms"; include "admin-layout.php"; ?>
