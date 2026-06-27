@@ -1,1 +1,1 @@
-<?php // Staff Dashboard ?>
+<?php $title = "Staff Dashboard"; include "staff-layout.php"; ?>
