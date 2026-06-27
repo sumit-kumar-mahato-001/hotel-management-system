@@ -1,1 +1,1 @@
-<?php // Staff Check-in Page ?>
+<?php $title = "Guest Check In"; include "staff-layout.php"; ?>
