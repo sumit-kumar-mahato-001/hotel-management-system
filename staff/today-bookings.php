@@ -1,1 +1,1 @@
-<?php // Staff Today's Bookings Page ?>
+<?php $title = "Today Bookings"; include "staff-layout.php"; ?>
