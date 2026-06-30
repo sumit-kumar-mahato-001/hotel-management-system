@@ -463,6 +463,6 @@ $today_date = date('l, d F Y');
       </div>
     </div>
 
-<script src="indexpage.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
