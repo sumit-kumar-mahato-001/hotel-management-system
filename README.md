@@ -11,9 +11,9 @@ It includes dynamic room listings, a booking inquiry form, special offers, testi
 |--------------|----------------|
 | ![Hero Section](Screenshot1.png) | ![Rooms Grid](Screenshot2.png) |
 
-| Mobile Navigation | Newsletter Modal |
+| Exceptional Amenities | Newsletter Modal |
 |-------------------|------------------|
-| ![Mobile Menu](Screenshot3.png) | ![Subscription Modal](Screenshot4.png) |
+| ![Exceptional Amenities](Screenshot3.png) | ![Subscription Modal](Screenshot4.png) |
 
 ---
 
