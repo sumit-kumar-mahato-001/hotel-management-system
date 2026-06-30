@@ -40,17 +40,4 @@ It includes dynamic room listings, a booking inquiry form, special offers, testi
 | Fonts      | Google Fonts (Playfair Display, Inter) |
 | Images     | Unsplash |
 ---
-## 📁 Project Files
-project/
-├── index.php # Homepage
-├── header.php # Common header (included by all pages)
-├── footer.php # Common footer (included by all pages)
-├── indexpage.css # Main stylesheet
-├── indexpage.js # JavaScript
-├── rooms.php # Rooms page (example)
-├── amenities.php # Amenities page (example)
-├── offers.php # Offers page (example)
-├── testimonials.php # Reviews page (example)
-├── contact.php # Contact page (example)
-└── README.md
----
+
